@@ -1,3 +1,4 @@
 <?php
 //error_reporting(E_ALL & ~E_WARNING);
-echo "PHP Code Murat Tok";
+echo "PHP Code";
+echo "Murat Tok";
